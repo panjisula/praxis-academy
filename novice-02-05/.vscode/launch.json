@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoConstructorExtends",
+            "request": "launch",
+            "mainClass": "belajar_objek.DemoConstructorExtends",
+            "projectName": "novice-02-05_58f9f90a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoReferensi",
+            "request": "launch",
+            "mainClass": "belajar_objek.DemoReferensi",
+            "projectName": "novice-02-05_58f9f90a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BasicMultiThreading",
+            "request": "launch",
+            "mainClass": "medium.contoh.BasicMultiThreading",
+            "projectName": "novice-02-05_58f9f90a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BasicMultiThrading",
+            "request": "launch",
+            "mainClass": "medium.contoh.BasicMultiThrading",
+            "projectName": "novice-02-05_58f9f90a"
+        }
+    ]
+}
