@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: contoh.micronaut
+---
+testFramework: spock
+sourceLanguage: groovy
