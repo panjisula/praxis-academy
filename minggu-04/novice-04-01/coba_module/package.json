@@ -1,0 +1,15 @@
+{
+  "name": "coba_module",
+  "version": "1.0.0",
+  "description": "ini adalah modul percobaan saya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coba",
+    "belajar"
+  ],
+  "author": "Panji Sulapandoyo",
+  "license": "MIT"
+}
