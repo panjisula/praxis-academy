@@ -1,0 +1,41 @@
+html{
+    background-color: rgb(190, 198, 206);
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #cfdfcf;
+    padding: 0 20px 20px 20px;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #212422;
+    font-size: 60px;
+    /* text-align: center; */
+    text-shadow: 3px 3px 1px rgb(80, 79, 79);
+}
+
+p {
+    color: brown;
+    padding: 15px;
+    width: 500px;
+    height: 1024px;
+    /* tambah scroll ?? */
+    border: 1px solid black;
+    font-family : 'Literata', serif;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+
+}
+
+img{
+    /* border-image: round; */
+    width: 240px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
